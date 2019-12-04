@@ -11,12 +11,8 @@ Tool to generate FDNY / NYPEMS ambulance rundown sheets
     
 ![test](_RundownTool%20Build/documentation%20(static)/1-w2w_dialog.jpg)
 
-2. Start the Rundown Tool.
+2.
 
-![test](_RundownTool%20Build/documentation%20(static)/2-main_window.jpg)
+3.
 
-3. To modify vehicle and radio assignments, select 'Modify Vecicles/Radios' and click 'Open'.  Once modifications are complete, click 'Commit'
-
-![test](_RundownTool%20Build/documentation%20(static)/3-edit_dialog.jpg)
-
-4. Finally, to generate the reports, select 'Generate Rundown' and click 'Open/Process'.  Once the tool completes, the output window will automatically appear.
+4.
